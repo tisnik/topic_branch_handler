@@ -1,0 +1,7 @@
+[{
+    "build_script":"pb",
+    "git_url":"https://git.server.com.com/product/repository.git",
+    "display_name":"Test repository",
+    "guide":"Test guide",
+    "directory":"Test guide"
+  }]
